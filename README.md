@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me for writing code
 - 😄 Pronouns: good manner
-- ⚡ Fun fact: 
+-  
 
 <!---
 Pranathivc/Pranathivc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
