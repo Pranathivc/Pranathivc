@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pranathivc
-- 👀 I’m interested in testing fields
+- 👀 I’m interested in Full-Stack Developer
 - 🌱 I’m currently learning BE CSE
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me for writing code
